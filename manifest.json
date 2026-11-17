@@ -1,0 +1,10 @@
+{
+  "name": "彼岸之烛 · 规则速查",
+  "short_name": "彼岸之烛",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#140c09",
+  "theme_color": "#140c09",
+  "lang": "zh-CN",
+  "description": "彼岸之烛桌边规则速查"
+}
