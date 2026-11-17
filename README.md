@@ -4,6 +4,8 @@
 
 打开后可搜「借机」「阴」「协助」；分类与搜索互不卡死。支持加到手机主屏幕（`manifest.json`）。
 
+中文字体 `Noto Sans SC` 已自托管在 `fonts/`（SIL OFL），不依赖 Google Fonts。
+
 ## 本地预览
 
 ```bash
